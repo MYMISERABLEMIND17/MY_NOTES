@@ -1,14 +1,34 @@
 {
   "main": {
-    "id": "7b6fd5e63853f0d3",
+    "id": "0201b93e358c9c3e",
     "type": "split",
     "children": [
       {
-        "id": "188f83558f01383b",
+        "id": "161a8df2654b651a",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb5d0240cb42bd5",
+            "id": "ec8c58a9d8bd4692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create a link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create a link"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b07c3f705762d171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116a775d6ba5629f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49312cb003801d20",
+    "id": "b926b93dcdcb267e",
     "type": "split",
     "children": [
       {
-        "id": "2f3497cd4c017e2f",
+        "id": "b624db51294fe6e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8c4571f600fa10",
+            "id": "4f40066c8d2b4df8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +64,7 @@
             }
           },
           {
-            "id": "e50b4af9596bc12f",
+            "id": "c812fb161c68d08b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +81,7 @@
             }
           },
           {
-            "id": "bd054ff5342cdf47",
+            "id": "f279da9a53e1e4e4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +97,15 @@
     "width": 300
   },
   "right": {
-    "id": "0c47a897253f1981",
+    "id": "ed1f7065c781d1b7",
     "type": "split",
     "children": [
       {
-        "id": "13bc3357d552ff07",
+        "id": "1213562f6a76de3a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4579466bd1a0ea",
+            "id": "2b6add63ba4640c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +123,7 @@
             }
           },
           {
-            "id": "5266dbd5cd9190d2",
+            "id": "1af42e7ba7205058",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +136,7 @@
             }
           },
           {
-            "id": "8b9cc3dc5b979d12",
+            "id": "5c5364fd7640cf28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +151,7 @@
             }
           },
           {
-            "id": "43233acd75552dae",
+            "id": "3211afd877a849e7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +165,7 @@
             }
           },
           {
-            "id": "eb88e1c96347b661",
+            "id": "e12b43627372ad23",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,22 +196,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cb5d0240cb42bd5",
+  "active": "116a775d6ba5629f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2026-02-16.md",
-    "NODE JS SEASON 1/HELLO.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "NODE JS SEASON 1",
-    "GDRGDG/Untitled.md",
-    "DGDFG.md",
-    "hello.md",
-    "Untitled 1.md",
-    "GDRGDG",
-    "Untitled.base",
-    "Untitled 1.base",
+    "create a link.md",
     "Welcome.md"
   ]
 }
