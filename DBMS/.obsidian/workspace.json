@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5410ffe0ea92cc7b",
+        "id": "bfd0606da2b47e50",
         "type": "tabs",
         "children": [
           {
-            "id": "96de67fe50b4afad",
+            "id": "40098b7379826ca8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
+                "viewState": {
+                  "x": -492,
+                  "y": -335,
+                  "zoom": -0.4094434828056206
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "lect 4 _ 2-tier and 3-tier"
             }
           }
         ],
@@ -71,12 +78,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 283.5
   },
   "right": {
     "id": "debaa879da32d93f",
@@ -92,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for lect 4 _ 2-tier and 3-tier"
             }
           },
           {
@@ -110,11 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from lect 4 _ 2-tier and 3-tier"
             }
           },
           {
@@ -152,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of lect 4 _ 2-tier and 3-tier"
             }
           }
         ],
@@ -179,12 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdd1e0b55968077d",
+  "active": "40098b7379826ca8",
   "lastOpenFiles": [
-    "gate_smasher/lect-3  file system vs dbms.md",
+    "gate_smasher/lect 4 _ 2-tier and 3-tier.md",
+    "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
+    "gate_smasher/lect 5 _ schema.md",
     "Untitled.base",
+    "gate_smasher/lect-3  file system vs dbms.md",
     "Untitled.md",
-    "Untitled.canvas",
     "2026-02-17.md",
     "gate_smasher",
     "2026-02-16.md",
