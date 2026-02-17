@@ -11,17 +11,14 @@
             "id": "2cb5d0240cb42bd5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 229.00548328210397,
-                  "y": -936.5178431205179,
-                  "zoom": -1.2000000000000002
-                }
+                "file": "NODE JS SEASON 1/HELLO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "HELLO"
             }
           }
         ]
@@ -186,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cb5d0240cb42bd5",
+  "active": "fa8c4571f600fa10",
   "lastOpenFiles": [
-    "NODE JS SEASON 1/HELLO.md",
+    "Untitled",
     "Untitled.canvas",
+    "NODE JS SEASON 1/HELLO.md",
     "Untitled.md",
     "2026-02-16.md",
     "Untitled 2.canvas",
