@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c06b0c96713e973e",
+            "id": "8442e854c19014cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S01 E02  JS on Server/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
+            }
+          },
+          {
+            "id": "0a336566b9ab06de",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "S01 E02  JS on Server/Untitled.canvas",
                 "viewState": {
-                  "x": -254.88942277579775,
-                  "y": 850.5954412294881,
+                  "x": 1032.635111030169,
+                  "y": -54.530987667648645,
                   "zoom": -1.4
                 }
               },
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 E02  JS on Server/Untitled.canvas",
+                "file": "S01 E02  JS on Server/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -117,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 E02  JS on Server/Untitled.canvas",
+                "file": "S01 E02  JS on Server/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -160,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 E02  JS on Server/Untitled.canvas",
+                "file": "S01 E02  JS on Server/notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of notes"
             }
           }
         ]
@@ -187,11 +201,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c06b0c96713e973e",
+  "active": "8442e854c19014cf",
   "lastOpenFiles": [
-    "S01 E01  Introduction to NodeJs/lectue draw.canvas",
     "S01 E02  JS on Server/Untitled.canvas",
-    "S01 E02  JS on Server/Untitled.md",
+    "Pasted image 20260219141151.png",
+    "S01 E02  JS on Server/notes.md",
+    "S01 E01  Introduction to NodeJs/lectue draw.canvas",
     "S01 E02  JS on Server",
     "Welcome.md",
     "pexels-ifreestock-619419.jpg",
