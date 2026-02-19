@@ -25,17 +25,14 @@
             "id": "30787431054b869e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "S01 E03 | Lets write Code/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "S01 E03 | Lets write Code/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           },
           {
@@ -129,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 E03 | Lets write Code/Untitled.canvas",
+                "file": "S01 E03 | Lets write Code/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -148,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 E03 | Lets write Code/Untitled.canvas",
+                "file": "S01 E03 | Lets write Code/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -191,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 E03 | Lets write Code/Untitled.canvas",
+                "file": "S01 E03 | Lets write Code/notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of notes"
             }
           }
         ]
@@ -220,8 +217,13 @@
   },
   "active": "30787431054b869e",
   "lastOpenFiles": [
-    "S01 E03 | Lets write Code/Untitled.md",
-    "S01 E03 | Lets write Code/Untitled.canvas",
+    "S01 E03 | Lets write Code/canavas.canvas",
+    "S01 E03 | Lets write Code/notes.md",
+    "S01 E03 | Lets write Code/Pasted image 20260219153925.png",
+    "S01 E03 | Lets write Code/Pasted image 20260219153035.png",
+    "S01 E03 | Lets write Code/Pasted image 20260219151100.png",
+    "S01 E03 | Lets write Code/Pasted image 20260219151015.png",
+    "S01 E03 | Lets write Code/Pasted image 20260219151009.png",
     "S01 E02  JS on Server/notes.md",
     "S01 E03 | Lets write Code",
     "S01 E02  JS on Server/Untitled.canvas",
