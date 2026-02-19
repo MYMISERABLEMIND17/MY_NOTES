@@ -22,6 +22,23 @@
             }
           },
           {
+            "id": "30787431054b869e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "S01 E03 | Lets write Code/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "0a336566b9ab06de",
             "type": "leaf",
             "state": {
@@ -38,7 +55,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 E02  JS on Server/notes.md",
+                "file": "S01 E03 | Lets write Code/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notes"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -130,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 E02  JS on Server/notes.md",
+                "file": "S01 E03 | Lets write Code/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notes"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -173,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 E02  JS on Server/notes.md",
+                "file": "S01 E03 | Lets write Code/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -200,11 +218,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdce7b31cf908e7b",
+  "active": "30787431054b869e",
   "lastOpenFiles": [
+    "S01 E03 | Lets write Code/Untitled.md",
+    "S01 E03 | Lets write Code/Untitled.canvas",
+    "S01 E02  JS on Server/notes.md",
+    "S01 E03 | Lets write Code",
     "S01 E02  JS on Server/Untitled.canvas",
     "S01 E02  JS on Server/Pasted image 20260219141151.png",
-    "S01 E02  JS on Server/notes.md",
     "S01 E01  Introduction to NodeJs/lectue draw.canvas",
     "S01 E02  JS on Server",
     "Welcome.md",
