@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65de65f278b4a11c",
+            "id": "c06b0c96713e973e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+                "file": "S01 E02  JS on Server/Untitled.canvas",
                 "viewState": {
-                  "x": -3140,
-                  "y": -6370,
-                  "zoom": -0.3429458761564454
+                  "x": -254.88942277579775,
+                  "y": 850.5954412294881,
+                  "zoom": -1.4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "lectue draw"
+              "title": "Untitled"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01bc5c32f4b53b16",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+                "file": "S01 E02  JS on Server/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lectue draw"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -116,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+                "file": "S01 E02  JS on Server/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lectue draw"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -159,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+                "file": "S01 E02  JS on Server/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lectue draw"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -186,12 +187,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdce7b31cf908e7b",
+  "active": "c06b0c96713e973e",
   "lastOpenFiles": [
-    "S01 E01  Introduction to NodeJs/lecture notes.md",
     "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+    "S01 E02  JS on Server/Untitled.canvas",
+    "S01 E02  JS on Server/Untitled.md",
+    "S01 E02  JS on Server",
+    "Welcome.md",
     "pexels-ifreestock-619419.jpg",
-    "S01 E01  Introduction to NodeJs",
-    "Welcome.md"
+    "S01 E01  Introduction to NodeJs/lecture notes.md",
+    "S01 E01  Introduction to NodeJs"
   ]
 }

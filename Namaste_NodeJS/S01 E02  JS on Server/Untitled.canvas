@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f187279e7ecb6dc4","type":"group","x":-700,"y":-780,"width":975,"height":808,"color":"2","label":"just  understanding why node js "},
+		{"id":"0c425d316e07b6c1","x":-840,"y":920,"width":1000,"height":720,"type":"group","label":"group"},
+		{"id":"1e37e4efe0a5655e","type":"text","text":"# Client call \n\ngoogle.com \n\ni has an ip = 114.634.32.345.6","x":-680,"y":-760,"width":325,"height":168,"color":"2"},
+		{"id":"fbe50bbe654c55cc","type":"text","text":"# Server \n\nthe ip is connected to this server \n","x":5,"y":-750,"width":250,"height":149,"color":"2"},
+		{"id":"0a43eda752c2e95a","type":"text","text":"# java script  before ,  \n\n\nfirst only used in frontend or the client side ","x":-295,"y":-440,"width":250,"height":184,"color":"2"},
+		{"id":"9ca06e316c1f4815","type":"text","text":"# java script  after\n\n\nnow used in both   client  + server ","x":-295,"y":-192,"width":250,"height":200,"color":"2"},
+		{"id":"dada8f090487a4df","type":"text","text":"# Node js behind scene \n\n> node js is build on c++ , because v8  has c++ codes ,   \n\n> so v8 can be embedded to any c++ application , \n> ## ==so js =======> v8(c++) ========> Machine code== , \n>and then machine understands it ","x":-705,"y":160,"width":660,"height":280},
+		{"id":"34cbb93081b9f3fa","type":"text","text":"# SERVER ","x":-731,"y":983,"width":811,"height":537,"color":"1"},
+		{"id":"6f5c23c02daac1e2","type":"text","text":"# NODEJS(c++)","x":-660,"y":1080,"width":640,"height":340,"color":"3"},
+		{"id":"a09b646fe4f2759f","type":"text","text":"# SUPER POWER\nNOde js add the super power to v8  that comes in the form of apis.","x":-375,"y":1141,"width":255,"height":158,"color":"4"},
+		{"id":"2c1b16e5f13b9538","type":"text","text":"# V8(c++)","x":-590,"y":1190,"width":150,"height":62,"color":"6"},
+		{"id":"be279120a5bb89fb","type":"text","text":"# ECMA Script\n\n>these are the set of standard or the rules , now js engines like v8 has to make sure to follow these standard .    \n\n\n> this is the reason all the browser gives the same result \n","x":-683,"y":520,"width":616,"height":270}
+	],
+	"edges":[
+		{"id":"4c6c52361425a44d","fromNode":"1e37e4efe0a5655e","fromSide":"right","toNode":"fbe50bbe654c55cc","toSide":"left"},
+		{"id":"98421b08f6f0eda9","fromNode":"0a43eda752c2e95a","fromSide":"left","toNode":"1e37e4efe0a5655e","toSide":"bottom"},
+		{"id":"662086d2173028a8","fromNode":"9ca06e316c1f4815","fromSide":"right","toNode":"fbe50bbe654c55cc","toSide":"bottom"},
+		{"id":"00e9b9164eff7510","fromNode":"9ca06e316c1f4815","fromSide":"left","toNode":"1e37e4efe0a5655e","toSide":"bottom"},
+		{"id":"9512fae5718a3e1a","fromNode":"9ca06e316c1f4815","fromSide":"bottom","toNode":"dada8f090487a4df","toSide":"top"},
+		{"id":"c95e843e7b9fcb09","fromNode":"dada8f090487a4df","fromSide":"bottom","toNode":"be279120a5bb89fb","toSide":"top"},
+		{"id":"74647a7211fde082","fromNode":"be279120a5bb89fb","fromSide":"bottom","toNode":"0c425d316e07b6c1","toSide":"top"}
+	]
+}
