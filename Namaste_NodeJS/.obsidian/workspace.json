@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "01bc5c32f4b53b16",
@@ -201,10 +200,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8442e854c19014cf",
+  "active": "bdce7b31cf908e7b",
   "lastOpenFiles": [
     "S01 E02  JS on Server/Untitled.canvas",
-    "Pasted image 20260219141151.png",
+    "S01 E02  JS on Server/Pasted image 20260219141151.png",
     "S01 E02  JS on Server/notes.md",
     "S01 E01  Introduction to NodeJs/lectue draw.canvas",
     "S01 E02  JS on Server",
