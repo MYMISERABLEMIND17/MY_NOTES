@@ -1,45 +1,44 @@
 {
   "main": {
-    "id": "4a22f210aac9ca68",
+    "id": "7c4b785fd368aa9c",
     "type": "split",
     "children": [
       {
-        "id": "bfd0606da2b47e50",
+        "id": "57fb6cb5e219fc82",
         "type": "tabs",
         "children": [
           {
-            "id": "40098b7379826ca8",
+            "id": "65de65f278b4a11c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "gate_smasher/lect-6 3 schema architecture.canvas",
+                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
                 "viewState": {
-                  "x": 43,
-                  "y": 34,
-                  "zoom": -0.6637074888244219
+                  "x": -3140,
+                  "y": -6370,
+                  "zoom": -0.3429458761564454
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "lect-6 3 schema architecture"
+              "title": "lectue draw"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce249e82f01a0ebe",
+    "id": "37b24f395c80932f",
     "type": "split",
     "children": [
       {
-        "id": "f9dc91c5c9b51018",
+        "id": "ed3f5e3267df89fd",
         "type": "tabs",
         "children": [
           {
-            "id": "bd32e787c516e85e",
+            "id": "bdce7b31cf908e7b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +51,7 @@
             }
           },
           {
-            "id": "fdd1e0b55968077d",
+            "id": "6a089dcc6e2228b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +68,7 @@
             }
           },
           {
-            "id": "e787944056433266",
+            "id": "2dcdd574980f428e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
-    "id": "debaa879da32d93f",
+    "id": "01bc5c32f4b53b16",
     "type": "split",
     "children": [
       {
-        "id": "42d19cc854edb4bb",
+        "id": "02f0fd7cd2d9887a",
         "type": "tabs",
         "children": [
           {
-            "id": "25a09b63253fa0b5",
+            "id": "ecf2dea3ff521148",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gate_smasher/lect-6 3 schema architecture.canvas",
+                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lect-6 3 schema architecture"
+              "title": "Backlinks for lectue draw"
             }
           },
           {
-            "id": "c5c590f1dc50132e",
+            "id": "516dbcc883771d1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gate_smasher/lect-6 3 schema architecture.canvas",
+                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lect-6 3 schema architecture"
+              "title": "Outgoing links from lectue draw"
             }
           },
           {
-            "id": "e9877bdd1423ce91",
+            "id": "5a165a80de05fc7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +140,7 @@
             }
           },
           {
-            "id": "5857974d0770a3bb",
+            "id": "43f89b87d581ad81",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,22 +154,21 @@
             }
           },
           {
-            "id": "f87cb00b30eb46ec",
+            "id": "e9c45f38919a1c22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "gate_smasher/lect-6 3 schema architecture.canvas",
+                "file": "S01 E01  Introduction to NodeJs/lectue draw.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lect-6 3 schema architecture"
+              "title": "Outline of lectue draw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,27 +179,19 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "canvas:Create new canvas": false
+      "bases:Create new base": false
     }
   },
-  "active": "bd32e787c516e85e",
+  "active": "bdce7b31cf908e7b",
   "lastOpenFiles": [
-    "gate_smasher/lect-6 3 schema Architecture.md",
-    "gate_smasher/lect-6 3 schema architecture.canvas",
-    "gate_smasher/lect 5 _ schema.md",
-    "gate_smasher/lect 4 _ 2-tier and 3-tier.canvas",
-    "gate_smasher/lect 4 _ 2-tier and 3-tier.md",
-    "Untitled.base",
-    "gate_smasher/lect-3  file system vs dbms.md",
-    "Untitled.md",
-    "2026-02-17.md",
-    "gate_smasher",
-    "2026-02-16.md",
-    "Welcome.md",
-    "create a link.md"
+    "S01 E01  Introduction to NodeJs/lecture notes.md",
+    "S01 E01  Introduction to NodeJs/lectue draw.canvas",
+    "pexels-ifreestock-619419.jpg",
+    "S01 E01  Introduction to NodeJs",
+    "Welcome.md"
   ]
 }

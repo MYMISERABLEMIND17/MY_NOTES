@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b22b096d90f29bac","x":-384,"y":-355,"width":250,"height":60,"type":"text","text":"external schema (student)"},
+		{"id":"a0a22f5d15d58dce","type":"text","text":"external schema (faculty)","x":-80,"y":-355,"width":250,"height":60},
+		{"id":"833eac5740a0e0d9","type":"text","text":"external schema (dean)","x":220,"y":-355,"width":250,"height":60},
+		{"id":"96a89231097298a9","x":-80,"y":-160,"width":250,"height":140,"type":"text","text":" conceptual schema ( defines the relationship between the schema )\n , this is also  logical level "},
+		{"id":"88ee224b4b302c73","x":-204,"y":220,"width":499,"height":203,"type":"text","text":"data base "},
+		{"id":"5513df65895d694d","x":-80,"y":70,"width":250,"height":50,"type":"text","text":"physical schema "}
+	],
+	"edges":[
+		{"id":"809e1d0450d26d99","fromNode":"b22b096d90f29bac","fromSide":"bottom","toNode":"96a89231097298a9","toSide":"top"},
+		{"id":"9165b5ed31cdc3d2","fromNode":"a0a22f5d15d58dce","fromSide":"bottom","toNode":"96a89231097298a9","toSide":"top"},
+		{"id":"c8de4d681cf0831d","fromNode":"833eac5740a0e0d9","fromSide":"bottom","toNode":"96a89231097298a9","toSide":"top"},
+		{"id":"f1550bb37616ceb9","fromNode":"96a89231097298a9","fromSide":"bottom","toNode":"5513df65895d694d","toSide":"top"},
+		{"id":"6ffaed0508e28f23","fromNode":"5513df65895d694d","fromSide":"bottom","toNode":"88ee224b4b302c73","toSide":"top"}
+	]
+}
