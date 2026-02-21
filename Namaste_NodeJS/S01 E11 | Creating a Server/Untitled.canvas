@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a5ab4da491ba2d85","type":"text","text":"# SERVER ","x":400,"y":-303,"width":920,"height":183},
+		{"id":"8eddf0ce5523eaa7","type":"text","text":"# CLIENT ","x":-640,"y":-303,"width":250,"height":183},
+		{"id":"d5e141b37623df9f","type":"text","text":"APPLICATION ","x":400,"y":-211,"width":250,"height":60,"color":"4"},
+		{"id":"69c032a7c295bb05","x":-622,"y":240,"width":214,"height":60,"type":"text","text":"# IP +PORT "},
+		{"id":"ced3bde261e17dbd","x":-320,"y":240,"width":147,"height":64,"type":"text","text":"# PATH"},
+		{"id":"4e3ab47ad3847082","x":0,"y":242,"width":250,"height":60,"type":"text","text":"# API "}
+	],
+	"edges":[
+		{"id":"341a5bbb518ffd60","fromNode":"8eddf0ce5523eaa7","fromSide":"right","toNode":"a5ab4da491ba2d85","toSide":"left","label":"SOCKET CONNECTION "},
+		{"id":"6ee776069a5d6270","fromNode":"a5ab4da491ba2d85","fromSide":"left","toNode":"d5e141b37623df9f","toSide":"left"},
+		{"id":"d83284c5d1491e0e","fromNode":"ced3bde261e17dbd","fromSide":"right","toNode":"4e3ab47ad3847082","toSide":"left"},
+		{"id":"3c72eb9f2a9fa54c","fromNode":"4e3ab47ad3847082","fromSide":"left","toNode":"ced3bde261e17dbd","toSide":"right"},
+		{"id":"3a26372842b26bcf","fromNode":"69c032a7c295bb05","fromSide":"right","toNode":"ced3bde261e17dbd","toSide":"left"}
+	]
+}
