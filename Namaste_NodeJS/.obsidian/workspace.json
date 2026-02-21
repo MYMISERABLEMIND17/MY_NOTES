@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "57fb6cb5e219fc82",
+        "id": "130f4cbedccc1a82",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6fadaf0303686b",
+            "id": "dd3caf3de78bffe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 E11 | Creating a Server/S01 E11 | Creating a Server.md",
+                "file": "S01 E12 | Databases SQL NoSql/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01 E11 | Creating a Server"
-            }
-          },
-          {
-            "id": "03cfb2064c432ec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S01 E11 | Creating a Server/S01 E11 | Creating a Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S01 E11 | Creating a Server"
+              "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,23 +183,25 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "bdce7b31cf908e7b",
+  "active": "dd3caf3de78bffe9",
   "lastOpenFiles": [
+    "S01 E12 | Databases SQL NoSql/Pasted image 20260221144930.png",
+    "S01 E12 | Databases SQL NoSql/Pasted image 20260221203045.png",
+    "S01 E12 | Databases SQL NoSql/Pasted image 20260221202954.png",
+    "S01 E12 | Databases SQL NoSql/Notes.md",
+    "S01 E12 | Databases SQL NoSql/Untitled.canvas",
+    "Pasted image 20260221203047.png",
+    "Screenshot from 2026-02-21 20-29-45.png",
+    "Screenshot from 2026-02-21 14-49-24.png",
     "S01 E11 | Creating a Server/Screenshot from 2026-02-21 14-11-16.png",
-    "S01 E11 | Creating a Server/Pasted image 20260221141204.png",
-    "S01 E11 | Creating a Server/Pasted image 20260221111746.png",
+    "S01 E12 | Databases SQL NoSql",
     "S01 E11 | Creating a Server/Untitled.canvas",
     "S01 E11 | Creating a Server/S01 E11 | Creating a Server.md",
+    "S01 E11 | Creating a Server/Pasted image 20260221141204.png",
+    "S01 E11 | Creating a Server/Pasted image 20260221111746.png",
     "S01 E11 | Creating a Server/Pasted image 20260221105353.png",
     "S01 E04 | Module.export require/NOTES.md",
     "S01 E11 | Creating a Server",
-    "S01 E04 | Module.export require/Pasted image 20260220142109.png",
-    "S01 E04 | Module.export require/Pasted image 20260219170025.png",
-    "S01 E04 | Module.export require/Pasted image 20260220135655.png",
-    "S01 E04 | Module.export require/Pasted image 20260220135742.png",
-    "S01 E04 | Module.export require/Pasted image 20260219163716.png",
-    "S01 E04 | Module.export require/Pasted image 20260219164628.png",
-    "S01 E02  JS on Server/Pasted image 20260219141151.png",
     "S01 E03 | Lets write Code/notes.md",
     "S01 E03 | Lets write Code/canavas.canvas",
     "S01 E02  JS on Server/Untitled.canvas",

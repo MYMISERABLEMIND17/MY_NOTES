@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"45b6a28008252082","x":-260,"y":-420,"width":420,"height":240,"type":"text","text":"# RDBMS\n\n> in form of col and rows .\n\n> 2 or  more tables can be linked through id , every table has its own id . \n\n"},
+		{"id":"b64ae4652411d9b0","x":-260,"y":-40,"width":420,"height":360,"type":"text","text":"# NoSQL\n\n> you dont have the table you have the collection . \n\n> it has collections and document . \n\n> you can also store the whole array inside the  collection \n\n\n>this json kind of field called document . "}
+	],
+	"edges":[]
+}
